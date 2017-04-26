@@ -6,5 +6,5 @@ The article will discuss how livestreaming boosts civic engagement, increases pu
 
 ### Files in GitHub
 
-municipal-livestream-list.csv: A listing of municipalities in Ontario with links to their websites, agendas page, livestreaming page, non-municipal livestreams, and other information.
+**municipal-livestream-list.csv**: A listing of municipalities in Ontario with links to their websites, agendas page, livestreaming page, non-municipal livestreams, and other information.
 The list of municipalities is pulled from the Ontario Government Open Data [page here](https://www.ontario.ca/data/municipalities)
